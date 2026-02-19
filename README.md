@@ -1,2 +1,5 @@
 # delta-demo
-Demo for Git &amp; Github class..
+Demo for Git &amp; Github class.
+
+# change
+make some changes
